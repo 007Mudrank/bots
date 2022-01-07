@@ -1,0 +1,94 @@
+body {
+  text-align: center;
+  font-family: Arial;
+  background-color: powderblue;
+  word-spacing: 5px;
+}
+.top {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.img1 {
+  float: left;
+  margin: 20px;
+  width: 200px;
+}
+
+.raybt {
+  float: right;
+}
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28; 
+  border-radius: 28px; 
+  font-family: Arial; 
+  color: darkblue; 
+  background: lightcyan; 
+  padding: 10px 10px 10px 10px;
+  text-decoration: none;
+  } 
+.btn:hover { 
+  background: #ff000d; 
+  background-image: -webkit-linear-gradient(top, #ff000d, #ff205b); 
+  background-image: -moz-linear-gradient(top, #ff000d, #ff205b); 
+  background-image: -ms-linear-gradient(top, #ff000d, #ff205b); 
+  background-image: -o-linear-gradient(top, #ff000d, #ff205b); 
+  background-image: linear-gradient(to bottom, #ff000d, #ff205b); 
+  text-decoration: none; 
+}
+.mod {
+  float: left;
+}
+.btn2 {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28; 
+  border-radius: 28px; 
+  font-family: Arial; 
+  color: darkblue; 
+  background: lightcyan; 
+  padding: 10px 10px 10px 10px;
+  text-decoration: none;
+  } 
+.btn2:hover { 
+  background: #ff000d; 
+  background-image: -webkit-linear-gradient(top, #ff000d, #ff205b); 
+  background-image: -moz-linear-gradient(top, #ff000d, #ff205b); 
+  background-image: -ms-linear-gradient(top, #ff000d, #ff205b); 
+  background-image: -o-linear-gradient(top, #ff000d, #ff205b); 
+  background-image: linear-gradient(to bottom, #ff000d, #ff205b); 
+  text-decoration: none; 
+}
+.img3 {
+  float: right;
+}
+.btn3 {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28; 
+  border-radius: 28px; 
+  font-family: Arial; 
+  color: darkblue; 
+  background: lightcyan; 
+  padding: 10px 10px 10px 10px;
+  text-decoration: none;
+  } 
+.btn3:hover { 
+  background: #ff000d; 
+  background-image: -webkit-linear-gradient(top, #ff000d, #ff205b); 
+  background-image: -moz-linear-gradient(top, #ff000d, #ff205b); 
+  background-image: -ms-linear-gradient(top, #ff000d, #ff205b); 
+  background-image: -o-linear-gradient(top, #ff000d, #ff205b); 
+  background-image: linear-gradient(to bottom, #ff000d, #ff205b); 
+  text-decoration: none; 
+}
+.bottom {
+  background-color: orchid;
+  color: red;
+}
+.insta {
+  width: 20px;
+}
+.dsc {
+  width: 20px;
+}
