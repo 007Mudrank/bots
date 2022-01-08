@@ -92,3 +92,56 @@ body {
 .dsc {
   width: 20px;
 }
+.img4 {
+
+  float: left;
+
+}
+
+.btn4 {
+
+  -webkit-border-radius: 28;
+
+  -moz-border-radius: 28; 
+
+  border-radius: 28px; 
+
+  font-family: Arial; 
+
+  color: darkblue; 
+
+  background: lightcyan; 
+
+  padding: 10px 10px 10px 10px;
+
+  text-decoration: none;
+
+  } 
+
+.btn4:hover { 
+
+  background: #ff000d; 
+
+  background-image: -webkit-linear-gradient(top, #ff000d, #ff205b); 
+
+  background-image: -moz-linear-gradient(top, #ff000d, #ff205b); 
+
+  background-image: -ms-linear-gradient(top, #ff000d, #ff205b); 
+
+  background-image: -o-linear-gradient(top, #ff000d, #ff205b); 
+
+  background-image: linear-gradient(to bottom, #ff000d, #ff205b); 
+
+  text-decoration: none; 
+
+}
+
+hr {
+
+  border: dotted red 6px;
+
+  border-bottom: none;
+
+  width: 6%;
+
+}
