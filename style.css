@@ -145,3 +145,45 @@ hr {
   width: 6%;
 
 }
+.img5 {
+
+  float: left;
+}
+.btn5 {
+
+  -webkit-border-radius: 28;
+
+  -moz-border-radius: 28; 
+
+  border-radius: 28px; 
+
+  font-family: Arial; 
+
+  color: darkblue; 
+
+  background: lightcyan; 
+
+  padding: 10px 10px 10px 10px;
+
+  text-decoration: none;
+
+  } 
+
+.btn5:hover { 
+
+  background: #ff000d; 
+
+  background-image: -webkit-linear-gradient(top, #ff000d, #ff205b); 
+
+  background-image: -moz-linear-gradient(top, #ff000d, #ff205b); 
+
+  background-image: -ms-linear-gradient(top, #ff000d, #ff205b); 
+
+  background-image: -o-linear-gradient(top, #ff000d, #ff205b); 
+
+  background-image: linear-gradient(to bottom, #ff000d, #ff205b); 
+
+  text-decoration: none; 
+
+}
+
