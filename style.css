@@ -146,7 +146,8 @@ hr {
 
 }
 .img5 {
-
+  height: 50px;
+  width: 60px;
   float: left;
 }
 .btn5 {
